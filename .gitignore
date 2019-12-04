@@ -1,0 +1,4 @@
+.vscode
+tmp
+judge/*.class
+*.jar
